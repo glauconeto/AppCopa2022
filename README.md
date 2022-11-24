@@ -1,9 +1,16 @@
 # AppCopa2022
 
-Desenvolvimento de uma aplicação por meio de etapas de desenvolvimento por meio de engenharia de software.
+## Sobre o projeto
+Desenvolvimento de uma aplicação mobile por meio de processos de desenvolvimento gerenciados pela engenharia de software. O app tem como tema a Copa do Mundo da Fifa de 2022. Assim, por meio deste projeto, foi possível colocar em prática diversas habilidades abordadas em aula.
 
-Aqui serão disponibilizadas as imagens de protótipos, do diagrama de caso de uso, entre outros processos que fazem parte do desenvolvimento.
+Projeto feito por alunos do segundo semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas da Faculdade de Tecnologia de Campinas.
 
-Até o momento, foi adicionado o diagrama de caso de uso, ainda em sua versão inicial. Futuramente, serão adicionadas novas funcionalidades a esse diagrama, tanto funcionais quanto não funcionais.
+Integrantes:
+- Cássia Xavier
+- Franciele Procopio
+- Glauco Neto
 
-Será adicionado também as imagens de prototipação de interface. Para o protótipo, foi utilizado o figma, uma plataforma de design colaborativo.
+---
+## Componentes
+
+Até o momento, foi desenvolvido quase completamente o diagrama de caso de uso (acesse [aqui](./AppCopa2022.png)). Fazendo parte do processo de desenvolvimento e organização do app, também foi desenvolvido telas de protótipo, para que se possa ter uma ideia de como foi pensado as funcionalidades do aplicativo, além de escolhas de cores e estilos diversos.
