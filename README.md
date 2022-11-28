@@ -14,3 +14,15 @@ Integrantes:
 ## Componentes
 
 Até o momento, foi desenvolvido quase completamente o diagrama de caso de uso (acesse [aqui](./AppCopa2022.png)). Fazendo parte do processo de desenvolvimento e organização do app, também foi desenvolvido telas de protótipo, para que se possa ter uma ideia de como foi pensado as funcionalidades do aplicativo, além de escolhas de cores e estilos diversos.
+
+### SCRUM
+
+Para a organização de todas os passos do projeto, foi feito um SCRUM para a simulação da organização do projeto, colocando em evidência conjunto de atividades (chamadas sprint backlog) para o andamento do projeto.
+
+Essa é a organização geral do SCRUM do projeto:
+
+![Organização do SCRUM do projeto](./print_SCRUM.png)
+
+### Protótipo
+
+Para termos uma noção de como ficaria o app de acordo com a nossa percepção, montamos telas de protótipos. Dessa maneira, foi concebido com escolhas de estilos, de escolhas de ícones e escolha de imagens para o app.
