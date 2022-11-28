@@ -31,11 +31,11 @@ Não funcionais
 - Aplicativo mobile
 - Funcionamento no Sistema Android (última atualização)
 - A aplicação funciona online
-- O sistema deve respeitar o tempo máximo de 140 segundos durante processamentos.
+- O sistema deve respeitar o tempo máximo de 140 segundos durante o processamento.
 
 ### Diagrama de Caso de uso
 
-Para o diagrama de caso de uso, foi realizado pensando em ações gerais e específicas, como o usuário e espectador realizar o acesso a horários dos jogos, escalações de times e equipes, poder mudar tema do app. Além de ações gerais, foi realizado especificações de ações que extendem de outras ou inlue outras. Além do ator de espectador e usuário, foi criado também ações para o ator de desenvolvedor, onde é pensado ações administrativas gerais do aplicativo.
+Para o diagrama de caso de uso, foi realizado pensando em ações gerais e específicas, como o usuário e espectador realizar o acesso a horários dos jogos, escalações de times e equipes, poder mudar tema do app. Além de ações gerais, foi realizado especificações de ações que extendem de outras ou inclue outras. Além do ator de espectador e usuário, foi criado também ações para o ator de desenvolvedor, onde é pensado ações administrativas gerais do aplicativo.
 
 ![Diagrama de caso de uso](./AppCopa2022.png)
 
