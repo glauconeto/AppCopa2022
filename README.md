@@ -25,4 +25,16 @@ Essa é a organização geral do SCRUM do projeto:
 
 ### Protótipo
 
-Para termos uma noção de como ficaria o app de acordo com a nossa percepção, montamos telas de protótipos. Dessa maneira, foi concebido com escolhas de estilos, de escolhas de ícones e escolha de imagens para o app.
+Para termos uma noção de como ficaria o app de acordo com a nossa percepção, montamos telas de protótipos. Dessa maneira, foi concebido com escolhas de estilos, de escolhas de ícones e escolha de imagens para o app. A concepção geral ficou assim:
+
+Tela inicial e de resultados
+
+<img src="prototipo/pagina_inicial.png" alt="Tela inicial do app" align="left" width="200" height="60%">
+
+<img src="prototipo/resultados.png" alt="Tela de resultados" width="198" height="60%">
+
+Tela de cronograma e classificação
+
+<img src="prototipo/cronograma.png" alt="Tela inicial de cronograma" align="left" width="200" height="60%">
+
+<img src="prototipo/classificacao.png" alt="Tela inicial de classificação" width="198" height="60%">
