@@ -13,7 +13,32 @@ Integrantes:
 ---
 ## Componentes
 
-Até o momento, foi desenvolvido quase completamente o diagrama de caso de uso (acesse [aqui](./AppCopa2022.png)). Fazendo parte do processo de desenvolvimento e organização do app, também foi desenvolvido telas de protótipo, para que se possa ter uma ideia de como foi pensado as funcionalidades do aplicativo, além de escolhas de cores e estilos diversos.
+Até o momento, foi desenvolvido quase completamente o diagrama de caso de uso (acesse [aqui](./AppCopa2022.png)). Fazendo parte do processo de desenvolvimento e organização do app, também foi desenvolvido telas de protótipo, para que se possa ter uma ideia de como foi pensado as funcionalidades do aplicativo, além de escolhas de cores e estilos diversos. Para a organização dos processos de desenvolvimento por meio de etapas, foi feito um SCRUM para o projeto. Para realizar testes na aplicação, foram realizados por meio de uma planilha.
+
+Requisitos. Para os requisitos, foram pensados os requisitos funcionais e não funcionais. São eles:
+
+Funcionais
+
+- Acessar horários de jogos
+- Visualizar escalações de times
+- Ver opções dos meios de assistir aos jogos
+- Poder mudar tema do app
+- Conseguir alterar o idioma do app
+- Cadastro e login de usuários
+
+Não funcionais
+
+- Aplicativo mobile
+- Funcionamento no Sistema Android (última atualização)
+- A aplicação funciona online
+- O sistema deve respeitar o tempo máximo de 140 segundos durante processamentos.
+
+### Diagrama de Caso de uso
+
+Para o diagrama de caso de uso, foi realizado pensando em ações gerais e específicas, como o usuário e espectador realizar o acesso a horários dos jogos, escalações de times e equipes, poder mudar tema do app. Além de ações gerais, foi realizado especificações de ações que extendem de outras ou inlue outras. Além do ator de espectador e usuário, foi criado também ações para o ator de desenvolvedor, onde é pensado ações administrativas gerais do aplicativo.
+
+![Diagrama de caso de uso](./AppCopa2022.png)
+
 
 ### SCRUM
 
@@ -22,6 +47,8 @@ Para a organização de todas os passos do projeto, foi feito um SCRUM para a si
 Essa é a organização geral do SCRUM do projeto:
 
 ![Organização do SCRUM do projeto](./print_SCRUM.png)
+
+Acesse o SCRUM completo [aqui](https://trello.com/invite/b/hxyVg54X/ATTI003d8adddee4dc5d50a08329c941d81720A53F0D/app-copa-do-mundo-scrum)
 
 ### Protótipo
 
