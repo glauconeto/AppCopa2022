@@ -38,3 +38,10 @@ Tela de cronograma e classificação
 <img src="prototipo/cronograma.png" alt="Tela inicial de cronograma" align="left" width="200" height="60%">
 
 <img src="prototipo/classificacao.png" alt="Tela inicial de classificação" width="198" height="60%">
+
+### Teste
+Para os testes do nosso app, foi utilizado uma planilha de testes utilizando parâmetros (dados de entrada), os procedimentos (o que seria feito a partir dos parâmetros), o resultado esperado de cada teste e o resultado obtido. Os testes realizados foram: teste de conectividade (com wi-fi ou dados móveis), teste de cadastro, teste de login e teste de streaming. Na imagem a seguir é possível ver com mais detalhes cada teste.
+
+![Planilha de testes](./print_planilha_teste.png)
+
+Para acessar o arquivo da planilha, clique [aqui](./Plano%20de%20Teste.xlsx)
